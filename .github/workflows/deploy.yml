@@ -56,7 +56,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: twb.wear1.top
     needs: build
     runs-on: ubuntu-latest
     name: Deploy
