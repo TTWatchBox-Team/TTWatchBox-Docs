@@ -10,9 +10,9 @@
 - [x] 部署官网
 - [x] 开发配置系统
 - [ ] 开发高级功能 <Badge type="tip" text="比较重要" />
-- [ ] 开发插件系统 <Badge type="warning" text="太重要了啊" />
-- [ ] 开发“一键root”插件 <Badge type="warning" text="太重要了啊" />
-- [ ] 开发插件商店 <Badge type="tip" text="比较重要" />
+- [ ] 开发插件系统 <Badge type="info" text="不是很重要" />
+- [ ] 开发“一键root” <Badge type="warning" text="太重要了啊" />
+- [ ] 开发插件商店 <Badge type="info" text="不是很重要" />
 - [ ] 完善主程序其他功能 <Badge type="info" text="不是很重要" />
 - [ ] 发布第一个发行版 <Badge type="warning" text="太重要了啊" />
 
